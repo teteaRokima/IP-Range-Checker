@@ -2,3 +2,5 @@
 This can be used to check the IP range of the given file
 
 Make sure to have the excel file in the same folder.
+
+This is only for my use as i need somewhere to save this file
